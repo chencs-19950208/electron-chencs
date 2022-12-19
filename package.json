@@ -1,0 +1,22 @@
+{
+  "name": "electron-chencs",
+  "version": "1.0.0",
+  "description": "electron 应用",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chencs-19950208/electron-chencs.git"
+  },
+  "author": "chencs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chencs-19950208/electron-chencs/issues"
+  },
+  "homepage": "https://github.com/chencs-19950208/electron-chencs#readme",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
